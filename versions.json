@@ -32,6 +32,57 @@
         "Added new section on Claude 4.6 reliability as the biggest transformation",
         "Added closing links to Projects Index and claude.danielrosehill.com"
       ]
+    },
+    {
+      "version": 4,
+      "file": "iterations/4.md",
+      "description": "Manual edits and additions throughout",
+      "edited_by": "Daniel Rosehill",
+      "ai_assisted": false,
+      "changes": [
+        "Various additions and tweaks added by hand"
+      ]
+    },
+    {
+      "version": 5,
+      "file": "iterations/5.md",
+      "description": "Integrated additional personal use-case examples",
+      "edited_by": "Claude (Opus 4.6)",
+      "ai_assisted": true,
+      "changes": [
+        "Added multi-agent orchestration (Agent UN) and synthetic personas example",
+        "Added post-digestive-surgery diet planning example",
+        "Added medical note summarisation for doctor's appointments",
+        "Added monthly budgeting as anxiety-reduction example",
+        "Added small claims evidence gathering against abusive landlord, including the irony of landlord claiming photos were AI-generated"
+      ]
+    },
+    {
+      "version": 6,
+      "file": "iterations/6.md",
+      "description": "Restructured for logical flow and added subheadings",
+      "edited_by": "Claude (Opus 4.6)",
+      "ai_assisted": true,
+      "changes": [
+        "Reorganised paragraphs into logical thematic sections",
+        "Added subheadings: Tearing Down the Moat, Beyond Code, The Terminal Paradox, Reliability Over Brilliance, Making Agentic AI Approachable, Words Are My Code, Worth Every Penny",
+        "Grouped all personal use-case examples together under Beyond Code",
+        "Consolidated CLI/UI discussion under The Terminal Paradox",
+        "Moved value/cost discussion into its own closing section",
+        "Removed orphaned/incomplete paragraph about travel agent system prompt",
+        "Minor typo fixes (converegence, knoweldge, indispensible, efficienc, built→build)"
+      ]
+    },
+    {
+      "version": 7,
+      "file": "iterations/7.md",
+      "description": "Added personalised software thesis and learning motivation theme",
+      "edited_by": "Claude (Opus 4.6)",
+      "ai_assisted": true,
+      "changes": [
+        "Added paragraph on personalised software era after the software company/cost discussion - covering the shift from centralised mass-market software to decentralised end-user generation and its democratising effect",
+        "Added paragraph after Making Agentic AI Approachable section on Claude Code as a motivator to learn more about technology, countering the 'skills degradation' worry, and introducing the 'do and then teach' use-case pattern"
+      ]
     }
   ]
 }

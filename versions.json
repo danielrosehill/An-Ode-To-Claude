@@ -1,0 +1,37 @@
+{
+  "title": "On Why Claude Is Awesome",
+  "original_author": "Daniel Rosehill",
+  "iterations": [
+    {
+      "version": 1,
+      "file": "iterations/1.md",
+      "description": "Raw first draft, no AI assistance",
+      "edited_by": "Daniel Rosehill",
+      "ai_assisted": false
+    },
+    {
+      "version": 2,
+      "file": "iterations/2.md",
+      "description": "Typo fixes and inline links added",
+      "edited_by": "Claude (Opus 4.6)",
+      "ai_assisted": true,
+      "changes": [
+        "Fixed typos and spelling errors",
+        "Added hyperlinks (Sefaria, Suno, Typst)"
+      ]
+    },
+    {
+      "version": 3,
+      "file": "iterations/3.md",
+      "description": "Expanded examples and added reliability narrative",
+      "edited_by": "Claude (Opus 4.6)",
+      "ai_assisted": true,
+      "changes": [
+        "Added audio/video editing examples (MLT/melt, normalising, destemming)",
+        "Expanded Claude Spaces concept with link and explanation",
+        "Added new section on Claude 4.6 reliability as the biggest transformation",
+        "Added closing links to Projects Index and claude.danielrosehill.com"
+      ]
+    }
+  ]
+}
